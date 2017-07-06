@@ -1,0 +1,5 @@
+.idea/
+ui-sandbox.iml
+
+client/node_modules/
+server/node_modules/
